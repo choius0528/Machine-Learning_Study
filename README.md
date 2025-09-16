@@ -5,4 +5,5 @@
 
 강의 교재 : 딥러닝 파이토치 교과서 (교재 준비 완료)
 실습 환경 : Google Colab 활용 (환경 구축 미리 해두기)
-  교재 파일 GitHub : https://github.com/gilbutITbook/080289
+교재 파일 GitHub : https://github.com/gilbutITbook/080289
+수강 코스 : 기초 Basic 코스 진행
